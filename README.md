@@ -2,7 +2,7 @@
 - 👀 I’m interested in cooding lol
 - 🌱 I’m currently learning cooding
 
-- 📫 How to reach me 
+
 
 <!---
 xmanux777/xmanux777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
